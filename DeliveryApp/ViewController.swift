@@ -21,11 +21,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-    print(1)
-    print(2)
-        
-        
-        
        
     }
 
